@@ -1,5 +1,7 @@
-# Hi, I'm Dhairyati 👋
-Computer Science student who enjoys building projects and learning new things.
+# Hi, I'm Dhairyati 
+I enjoy building projects, learning new things, and documenting the process here on GitHub.
+
+> Some projects started with a problem. Others started with curiosity.
 <!--
 **Dhairyati/Dhairyati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
