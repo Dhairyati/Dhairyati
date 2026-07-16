@@ -1,5 +1,5 @@
-## Hola! 👋
-
+# Hi, I'm Dhairyati 👋
+Computer Science student who enjoys building projects and learning new things.
 <!--
 **Dhairyati/Dhairyati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
